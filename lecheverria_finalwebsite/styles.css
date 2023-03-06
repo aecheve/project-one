@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@300&family=Mulish:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;0,1000;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900;1,1000&display=swap');
+
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&family=Shrikhand&display=swap');
+
+
+body {
+    background-image: url(images/wallpaper.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+button:hover {
+    background-color: #C1EEFF;
+}
+
+main {
+    background-color: #FBF6EF;
+    color: #35393C;
+    width: auto;
+    height: auto;
+
+}
+
+nav {
+    text-align: center;
+    color: #FBF6EF;
+    padding: 10px;
+    font-family: 'Mulish'
+}
+
+h1 {
+    font-family: "Shrikhand";
+    background-color: #FBF6EF;
+    border-style: dashed;
+    width: 400px;
+    padding: 2px;
+    margin: 2px;
+    color: #35393C;
+}
+
+h3 {
+    font-family: "Mulish";
+    color: #35393C;
+
+}
+
+p {
+    font-family: 'Mulish';
+    color: #35393C;
+
+}
+
+ul {
+    font-family: 'Mulish';
+    color: #35393C;
+
+}
+
+ol {
+    font-family: 'Mulish';
+    color: #35393C;
+
+}
+
+.shopitems {
+    text-align: left;
+
+}
+
+
+.welcome {
+    display: flex;
+    justify-content: center;
+}
+
+
+a {
+    font-family: 'Mulish'
+
+}
+
+button {
+    font-size: 20px;
+    background-color: #6096B4;
+    border-color: #6096B4;
+    border-radius: 25px;
+    width: 80px;
+    height: 40px;
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+
+    background-color: #6096B4;
+    text-align: center;
+    font-size: 15px;
+    color: #35393C;
+
+}
